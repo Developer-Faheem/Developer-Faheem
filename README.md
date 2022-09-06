@@ -50,7 +50,7 @@
 
 
 
-### My Streaks and Contributions;
+### My Streaks and Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-faheem&" alt="developer-faheem" /></p>
 
 <details align= "right">
