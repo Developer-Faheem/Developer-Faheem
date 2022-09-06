@@ -3,15 +3,16 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faheem!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&width=450&lines=I'm+Analyst+Systems+%26+Technical+Support;A+Passionate +Flutter +Developer+from+Pakistan)](https://git.io/typing-svg)
-<br><br>
-<a href="https://twitter.com/Th3Ces4r">
-<img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=535&height=70&lines=A+passionate+Flutter+Developer+from+Pakistan.++;Always+willing+to+learn+and+improve.)](https://git.io/typing-svg)
+<br>
+
+<a href="https://www.instagram.com/faheem_abbas_afridi/">
+<img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/Developer-Faheem">
 <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/cyl90/">
+<a href="https://www.linkedin.com/in/faheem-abbas-756b5b247">
 <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:dev.faheemabbas@gmail.com">
